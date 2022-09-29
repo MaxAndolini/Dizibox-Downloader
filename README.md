@@ -2,7 +2,7 @@
 
 # Requirements:
 
-pip install selenium youtube_dl
+pip install selenium webdriver-manager youtube_dl
 
 You must have ffmpeg installed on your computer or in the directory where the script is!
 

@@ -8,6 +8,6 @@ You must have ffmpeg installed on your computer or in the directory where the sc
 
 # Gereksinimler
 
-pip install selenium youtube_dl
+pip install selenium webdriver-manager youtube_dl
 
 Bilgisayarınızda veya scriptin bulunduğu dizinde ffmpeg kurulu olmalıdır!

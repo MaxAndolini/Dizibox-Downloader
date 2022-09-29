@@ -18,7 +18,7 @@ if __name__ == '__main__':
     while True:
         url = input('Lütfen Dizibox linki girin: ')
 
-        if 'www.dizibox' in url is False:
+        if 'www.dizibox' not in url:
             continue
 
         logging.getLogger('WDM').setLevel(logging.NOTSET)
